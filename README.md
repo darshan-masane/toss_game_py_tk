@@ -16,4 +16,4 @@ Heads &amp; Tails Game (Python + Tkinter) A fun and interactive Heads &amp; Tail
 - If your choice matches the coin toss, you win; otherwise, you lose.
 ## 🛠️ Technologies Used
 - Python: Core logic and randomization.
-- Tkinter: For building the graphical user interface (GUI)
+- Tkinter: For building the graphical user interface (GUI).
