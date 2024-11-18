@@ -9,11 +9,11 @@ Heads &amp; Tails Game (Python + Tkinter) A fun and interactive Heads &amp; Tail
 - A sleek GUI built with Tkinter, featuring buttons, labels, and pop-up results.
 ### Instant Feedback: 
 - Displays the game result (Win/Lose) in a dialog box for quick interaction.
-## 📋 How It Works
+## 📋 How It Works:
 - Click the "START" button on the main window.
 - A pop-up window lets you choose either "Heads" or "Tails."
 - The game simulates a coin toss and displays the result in a dialog box.
 - If your choice matches the coin toss, you win; otherwise, you lose.
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 - Python: Core logic and randomization.
 - Tkinter: For building the graphical user interface (GUI).
